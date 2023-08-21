@@ -1,6 +1,6 @@
 # Pooling-Only Neural Network on MNIST
 
-In this small code, I experimented with a unique neural network architecture that predominantly uses pooling layers, followed by a single fully connected (FC) layer. Surprisingly, this simple model achieved a commendable **<span style="color: green;">83% accuracy</span>** on the MNIST dataset in just 5 epochs. Dive in to explore the code and insights!
+In this small code, I experimented with a unique network architecture that only uses pooling layers, followed by a single fully connected (FC) layer. Surprisingly, this simple model achieved a commendable **<span style="color: green;">83% accuracy</span>** on the MNIST dataset in just 5 epochs. Dive in to explore the code and insights!
 
 
 
